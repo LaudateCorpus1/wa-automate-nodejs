@@ -32,7 +32,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "remark-gfm": "^3.0.1",
-    "remark-typedoc-symbol-links": "1.0.1",
+    "remark-typedoc-symbol-links": "1.2.2",
     "replace-in-file": "^6.3.5",
     "sass": "^1.54.0",
     "unified": "8.4.2",
